@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+pydantic
+alembic
+langchain
+langchain-community
+langchain-openai
+chromadb
+pypdf
+python-multipart
+tiktoken
